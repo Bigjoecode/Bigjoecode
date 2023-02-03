@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Block chain programming
 - 💞️ I’m looking to collaborate on your project
-- 📫 How to reach me yoursbigjoe@gmail.com
+- 📫 How to reach me joe.techprojects@gmail.com
 
 <!---
 Bigjoecode/Bigjoecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
